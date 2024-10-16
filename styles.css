@@ -30,11 +30,15 @@
     right: -10px;
     background-color: red;
   }
+<<<<<<< HEAD
 
+=======
+>>>>>>> 459dd07d780a154862e484cad65966b1aabdc0c0
   img{
     width: 100%;
     object-fit: cover;
   }
+<<<<<<< HEAD
 .sect3div img{
   overflow: hidden;
   transition: 0.5s;
@@ -43,3 +47,16 @@
   scale: 0.9;
 }
   
+=======
+  .sect3div{
+    overflow: hidden;
+    transition:0.3s
+  }
+  .sect3div img{
+    overflow: hidden;
+    transition: 0.5s;
+  }
+  .sect3div img:hover{
+    scale: 0.9;
+  }
+>>>>>>> 459dd07d780a154862e484cad65966b1aabdc0c0
